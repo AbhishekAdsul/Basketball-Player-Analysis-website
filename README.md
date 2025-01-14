@@ -20,7 +20,10 @@ This project involves a desktop application and a website to showcase and distri
 4. **Real-Time Feedback**:
    - Offers immediate suggestions based on the analysis.
    - Displays trajectory paths and movement patterns for better understanding.
-
+![bg](https://github.com/user-attachments/assets/b796c376-d57a-455f-8745-5bfa20fdd318)
+![bg2](https://github.com/user-attachments/assets/9d03c2ef-7b4a-4e7f-ae6c-93771f933fd0)
+![bg3](https://github.com/user-attachments/assets/ff94a682-58c7-4df8-a4ea-e39f5aa71d94)
+![hold](https://github.com/user-attachments/assets/ac36c76f-5fbd-4eef-9f57-5db3ec4cac6b)
 
 ### Website
 1. **Showcase Project**:
